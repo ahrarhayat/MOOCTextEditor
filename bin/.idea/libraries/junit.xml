@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/junit" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/testng" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
