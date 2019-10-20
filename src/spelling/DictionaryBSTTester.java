@@ -5,8 +5,6 @@ package spelling;
 
 import static org.junit.Assert.*;
 
-import java.util.LinkedList;
-
 import org.junit.Before;
 import org.junit.Test;
 
@@ -16,7 +14,7 @@ import org.junit.Test;
  */
 public class DictionaryBSTTester {
 
-	private String dictFile = "data/words.small.txt"; 
+	private String dictFile = "E:\\Coursera\\UCSD_Course_2\\MOOCTextEditor\\data\\words_small.txt";
 
 	DictionaryBST emptyDict; 
 	DictionaryBST smallDict;

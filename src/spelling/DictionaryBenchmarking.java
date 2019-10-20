@@ -17,7 +17,7 @@ public class DictionaryBenchmarking {
 	    int trials = 500;
 
 	    // The text to test on
-	    String dictFile = "data/dict.txt";
+	    String dictFile = "E:\\Coursera\\UCSD_Course_2\\MOOCTextEditor\\data\\warAndPeace.txt";
 		
 	    // The amount of words to increment each step
 	    // You can play around with this
@@ -29,7 +29,7 @@ public class DictionaryBenchmarking {
 		
 		// The number of words to start with. 
 		// You can play around with this.
-		int start = 50000;
+		int start = 1000;
 		
 		String notInDictionary = "notaword";
 		
